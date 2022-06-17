@@ -1,5 +1,8 @@
 .general {
     border-collapse: collapse;
     width: 600px;
-    background-color: #0c131b;
+    }
+.sale {
+    background-color: background-color: #fd8300;
+    
 }
