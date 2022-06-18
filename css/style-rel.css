@@ -1,8 +1,86 @@
 .general {
     border-collapse: collapse;
     width: 600px;
+    background-color: #ffffff;
     }
-.sale {
-    background-color: background-color: #fd8300;
+img{
+        vertical-align: bottom;
+    }
+h1{
+    font-size: 24px;
+    line-height: 24px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+
+}
+h2{
+    font-size: 16px;
+    line-height: 24px;
+    color: #1f1f56;
+    font-weight: bold;
+    font-family: "Arial";
+}
+h3 {
+    font-size: 14px;
+    line-height: 18px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.phone a {
+    font-size: 16px;
+    line-height: 24px;
+    color: #25252c;
+    font-weight: bold;
+    font-family: "Arial";
+    text-decoration: none;
+    text-align: right;
+}
+.phone p {
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-style: italic;
+    font-family: "Arial";
+    text-align: right;
+}
+.location {
+    background-color: #ededf5;
+}
+.fon {
+    background-color: #fd8300;
+    background-image: url(https://raw.githubusercontent.com/Nataliia-Zemlyak/Hata-Mail/master/img/jpg/container.jpg);
+    background-repeat: repeat;
     
+}
+.sale h2 {
+    font-size: 24px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.sale p {
+   
+    font-size: 13px;
+    line-height: 20px;
+    color: #ffffff;
+    font-family: "Arial";
+    text-align: center;
+}
+.knopka a {
+    display: inline-block;
+}
+.social {
+    background-color: #08081a;
+}
+.social p {
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-family: "Arial";
+    text-align: center;
 }
