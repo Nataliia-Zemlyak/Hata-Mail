@@ -39,6 +39,8 @@ h3 {
     background-color: #dcdce5;
 }
 .logo {
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: #ffffff;
 }
 .hata img {
@@ -58,6 +60,7 @@ h3 {
     padding-right: 10px;
 }
 .contact p {
+    margin: 0;
     padding-right: 30px;
     font-size: 13px;
     line-height: 18px;
@@ -87,6 +90,7 @@ h3 {
 }
 .location td {
     padding-left: 32px;
+    vertical-align: top;
 }
 .location img {
     padding-top: 37px;
@@ -121,11 +125,11 @@ h3 {
     font-family: "Arial";
 }
 .house img {
-    padding-right: 10%;
-    padding-left: 10%;
+    padding-left: 8%;
     padding-top: 10%;
     padding-bottom: 10%;
 }
+
 .home p,
 .home a {
     padding-left: 10%;
@@ -188,21 +192,27 @@ h3 {
 .knopka {
     padding-left: 27px;
     padding-bottom: 30px;
-    padding-top: 15px;
+   
 }
 .knopka a,
 .knopka2 a {
     display: inline-block;
 }
 
+
 .social {
     padding-top: 30px;
     background-color: #08081a;
 }
+.comp {
+    background-color: #08081a;
+    
+}
 .social a {
     padding-left: 5px;
 }
-.social p {
+.comp p {
+    padding-top: 10px;
     font-size: 13px;
     line-height: 18px;
     color: #9999a6;
@@ -211,6 +221,7 @@ h3 {
 }
 .footer {
     background-color: #000014;
+    
 }
 .footer a {
     font-size: 11px;
